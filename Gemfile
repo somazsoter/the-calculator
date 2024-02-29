@@ -1,0 +1,6 @@
+ruby '2.7.3'
+source 'https://rubygems.org'
+gem 'rack', '~> 2.2'
+gem 'rack-test', '~> 2.0'
+gem 'sinatra', '~> 2.2'
+gem 'webrick', '~> 1.7'
